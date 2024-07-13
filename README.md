@@ -18,6 +18,9 @@ Step9:- move to frontend
             npm install 
             npm run dev
 
-Step10:- move backend
+Step10:- npm install
+         npm run dev
+         
+Step11:- move backend
           npm install 
           npm start
